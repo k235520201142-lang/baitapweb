@@ -31,10 +31,14 @@ Tạo file `docker-compose.yml` khai báo đầy đủ các dịch vụ: `nginx`
 <img width="1535" height="863" alt="image" src="https://github.com/user-attachments/assets/19e225c3-7da2-4df9-99dc-f92624e7fb04" />
 
 
+---
+
 **Minh chứng giao diện Quản trị phpMyAdmin (Port 8080):**
 
 <img width="1535" height="863" alt="image" src="https://github.com/user-attachments/assets/e4ea0d9e-6c9f-496b-a78f-be8fe236932f" />
 
+
+---
 
 **Minh chứng cấu hình Cloudflare Tunnel:**
 Thiết lập đường truyền bảo mật kết nối các service ra tên miền cá nhân thành công (`truongnamtu.id.vn` và `sub.truongnamtu.id.vn`).
@@ -51,6 +55,8 @@ Cấu hình Virtual Host trong Nginx điều hướng đồng thời 2 tên mi�
 
 <img width="1535" height="863" alt="image" src="https://github.com/user-attachments/assets/572907a1-05d9-4dce-9e96-687503a2e06e" />
 
+
+---
 
 * **Website 2 (`sub.truongnamtu.id.vn`):**
 
